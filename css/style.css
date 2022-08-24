@@ -9,6 +9,10 @@ body {
   max-width: 100%;
   max-height: 100vh;
 }
+html {
+  overflow-x: hidden;
+}
+
 header {
   padding-top: 10px;
   padding-bottom: 30px;
